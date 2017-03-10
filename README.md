@@ -1,4 +1,4 @@
-# hello-CS
-The first repository
+# hello-Chloe
+
 
 If winning isn't everything, why do they keep score?
